@@ -1,4 +1,4 @@
 pander
 ======
 
-An R pandoc writer (moved to Rapporter GH account)
+This repository was moved to our [Rapporter GH account](https://github.com/Rapporter/pander)
